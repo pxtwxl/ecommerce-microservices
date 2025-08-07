@@ -69,12 +69,3 @@ frontend/              # Next.js frontend for user interface
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
-
-## License
-This project is licensed under the MIT License.
-
-## Maintainers
-- [Your Name](mailto:your.email@example.com)
-
----
-Feel free to update this README with more details as your project evolves.
