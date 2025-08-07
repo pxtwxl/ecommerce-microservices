@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "image": "/dummy/headphones.jpg",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 129.99,
+    "image": "/dummy/smartwatch.jpg",
+    "description": "Track your fitness and notifications with this stylish smart watch."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 39.99,
+    "image": "/dummy/speaker.jpg",
+    "description": "Portable Bluetooth speaker with deep bass and long battery life."
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "price": 24.99,
+    "image": "/dummy/mouse.jpg",
+    "description": "Ergonomic gaming mouse with customizable DPI settings."
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 79.99,
+    "image": "/dummy/keyboard.jpg",
+    "description": "RGB mechanical keyboard with tactile switches."
+  },
+  {
+    "id": 6,
+    "name": "4K Monitor",
+    "price": 299.99,
+    "image": "/dummy/monitor.jpg",
+    "description": "Ultra HD 4K monitor for stunning visuals and productivity."
+  },
+  {
+    "id": 7,
+    "name": "USB-C Hub",
+    "price": 19.99,
+    "image": "/dummy/hub.jpg",
+    "description": "Expand your laptop's connectivity with this multi-port USB-C hub."
+  },
+  {
+    "id": 8,
+    "name": "External SSD",
+    "price": 89.99,
+    "image": "/dummy/ssd.jpg",
+    "description": "Fast and portable external SSD for all your storage needs."
+  },
+  {
+    "id": 9,
+    "name": "Action Camera",
+    "price": 149.99,
+    "image": "/dummy/camera.jpg",
+    "description": "Capture adventures in 4K with this rugged action camera."
+  },
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "price": 49.99,
+    "image": "/dummy/fitnesstracker.jpg",
+    "description": "Monitor your health and activity with this sleek fitness tracker."
+  },
+  {
+    "id": 11,
+    "name": "Wireless Charger",
+    "price": 29.99,
+    "image": "/dummy/charger.jpg",
+    "description": "Fast wireless charger compatible with all Qi devices."
+  },
+  {
+    "id": 12,
+    "name": "Laptop Stand",
+    "price": 34.99,
+    "image": "/dummy/stand.jpg",
+    "description": "Adjustable laptop stand for better ergonomics."
+  },
+  {
+    "id": 13,
+    "name": "Noise Cancelling Earbuds",
+    "price": 69.99,
+    "image": "/dummy/earbuds.jpg",
+    "description": "Compact earbuds with active noise cancellation."
+  },
+  {
+    "id": 14,
+    "name": "Smartphone Gimbal",
+    "price": 99.99,
+    "image": "/dummy/gimbal.jpg",
+    "description": "Stabilize your smartphone videos with this 3-axis gimbal."
+  },
+  {
+    "id": 15,
+    "name": "Portable Projector",
+    "price": 199.99,
+    "image": "/dummy/projector.jpg",
+    "description": "Mini projector for movies and presentations anywhere."
+  },
+  {
+    "id": 16,
+    "name": "VR Headset",
+    "price": 249.99,
+    "image": "/dummy/vr.jpg",
+    "description": "Immersive VR headset for gaming and experiences."
+  },
+  {
+    "id": 17,
+    "name": "Smart Light Bulb",
+    "price": 14.99,
+    "image": "/dummy/bulb.jpg",
+    "description": "Control your lighting with this WiFi-enabled smart bulb."
+  },
+  {
+    "id": 18,
+    "name": "Robot Vacuum",
+    "price": 179.99,
+    "image": "/dummy/vacuum.jpg",
+    "description": "Automatic robot vacuum cleaner for effortless cleaning."
+  },
+  {
+    "id": 19,
+    "name": "Electric Toothbrush",
+    "price": 39.99,
+    "image": "/dummy/toothbrush.jpg",
+    "description": "Rechargeable electric toothbrush for better oral care."
+  },
+  {
+    "id": 20,
+    "name": "Smart Plug",
+    "price": 12.99,
+    "image": "/dummy/plug.jpg",
+    "description": "Control your devices remotely with this smart plug."
+  }
+]
